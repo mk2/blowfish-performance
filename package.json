@@ -1,0 +1,9 @@
+{
+  "name": "blowfish-performance",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "egoroof-blowfish": "^2.2.0"
+  }
+}
